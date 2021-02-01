@@ -1,0 +1,11 @@
+{
+    "address":"172.20.10.10",
+	"port":"1883",
+	"clientId":"MySelf",
+	"username":"d2d",
+	"password":"password",
+	"messageTopicPrefix":"D2D/Agents/",
+	"goalTopicPrefix":"D2D/Agents/",
+    "useTLS":false,
+	"certFileURI":"/home/.ssh/cert/ca.pem"
+}

@@ -1,0 +1,10 @@
+{
+  "description":"For match image. ",
+  "type":"image",
+  "uri":"goal/test.png",
+  "position": {
+    "X": 0,
+    "Y": 60,
+    "Z": -950
+  }   
+}
