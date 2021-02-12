@@ -10,8 +10,8 @@ import (
 	"log"
 	"sync"
 
-	comm "github.com/alexandrainst/D2D-communication"
-	"github.com/alexandrainst/agentlogic"
+	comm "github.com/skovsen/D2D_Communication"
+	agentlogic "github.com/skovsen/D2D_AgentLogic"
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 )
 

@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	comm "github.com/alexandrainst/D2D-communication"
-	"github.com/alexandrainst/agentlogic"
+	comm "github.com/skovsen/D2D_Communication"
+	agentlogic "github.com/skovsen/D2D_AgentLogic"
 
 	"github.com/gorilla/websocket"
 )

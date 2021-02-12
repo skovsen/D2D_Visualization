@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	comm "github.com/alexandrainst/D2D-communication"
+	comm "github.com/skovsen/D2D_Communication"
 )
 
 func main() {
